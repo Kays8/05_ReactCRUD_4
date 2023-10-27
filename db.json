@@ -1,0 +1,224 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "John Done",
+      "email": "john@gmail.com",
+      "phone": "0123456789",
+      "birthday": "1990-01-01",
+      "photo": "https://source.unsplash.com/random/200x200/?portraint",
+      "section": "65/45",
+      "major": "Software Engineering",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane@gmail.com",
+      "phone": "0123456789",
+      "birthday": "1992-03-15",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Software Engineering",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 3,
+      "name": "David Lee",
+      "email": "david@gmail.com",
+      "phone": "0123456789",
+      "birthday": "1991-07-20",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Computer Science",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 4,
+      "name": "Sarah Johnson",
+      "email": "sarah@gmail.com",
+      "phone": "0123456789",
+      "birthday": "1993-05-10",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Electrical Engineering",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 5,
+      "name": "Michael Wilson",
+      "email": "michael@gmail.com",
+      "phone": "0123456789",
+      "birthday": "1990-12-04",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Mechanical Engineering",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 6,
+      "name": "Emily Brown",
+      "email": "emily@gmail.com",
+      "phone": "0123456789",
+      "birthday": "1994-09-28",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Biology",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 7,
+      "name": "James Johnson",
+      "email": "james@gmail.com",
+      "phone": "0123456789",
+      "birthday": "1991-02-18",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Chemistry",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 8,
+      "name": "Olivia Davis",
+      "email": "olivia@gmail.com",
+      "phone": "0123456789",
+      "birthday": "1992-06-30",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Physics",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 9,
+      "name": "William Harris",
+      "email": "william@gmail.com",
+      "phone": "0123456789",
+      "birthday": "1993-11-12",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Mathematics",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 10,
+      "name": "Sophia Miller",
+      "email": "sophia@gmail.com",
+      "phone": "0123456789",
+      "birthday": "1995-04-24",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Environmental Science",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 11,
+      "name": "Liam Wilson",
+      "email": "liam@gmail.com",
+      "phone": "0123456789",
+      "birthday": "1990-08-08",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Civil Engineering",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 12,
+      "name": "Ava Martinez",
+      "email": "ava@gmail.com",
+      "phone": "0123456789",
+      "birthday": "1991-12-25",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Psychology",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 13,
+      "name": "Noah Johnson",
+      "email": "noah@gmail.com",
+      "phone": "0123456789",
+      "birthday": "1993-02-14",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Sociology",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 14,
+      "name": "Mia Garcia",
+      "email": "mia@gmail.com",
+      "phone": "0123456789",
+      "birthday": "1992-07-02",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "History",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 15,
+      "name": "Elijah Robinson",
+      "email": "elijah@gmail.com",
+      "phone": "0123456789",
+      "birthday": "1994-10-09",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Economics",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 16,
+      "name": "Avery Hall",
+      "email": "avery@gmail.com",
+      "phone": "0123456789",
+      "birthday": "1990-05-19",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Political Science",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 17,
+      "name": "Logan King",
+      "email": "logan@gmail.com",
+      "phone": "0123456789",
+      "birthday": "1991-09-03",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "English Literature",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 18,
+      "name": "Harper Scott",
+      "email": "harper@gmail.com",
+      "phone": "0123456789",
+      "birthday": "1993-03-27",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Art History",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 19,
+      "name": "Isabella White",
+      "email": "isabella@gmail.com",
+      "phone": "0123456789",
+      "birthday": "1992-01-07",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Music",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 20,
+      "name": "Mason Evans",
+      "email": "mason@gmail.com",
+      "phone": "0123456789",
+      "birthday": "1994-06-14",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Drama",
+      "admissionYear": "2022"
+    }
+  ]
+}
