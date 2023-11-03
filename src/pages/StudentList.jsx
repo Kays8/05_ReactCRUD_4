@@ -23,7 +23,17 @@ const StudentList = () => {
     navigate("/student/detail/" + id);
   };
   const removeStudent = (id) => {
-    alert("delete" + id);
+    if(window.confirm("Do you want to remove?")){
+      fetch("http://localhost:8000/students/" + id,{
+        method:"DELETE",
+      }).then((res)=>{
+        alert("remove successfully");
+        window.location.reload()
+      })
+      .catch((err)=>{
+        console.log(err);
+      })
+    }
   };
   return (
     <div className="container">
@@ -57,7 +67,7 @@ const StudentList = () => {
                     <td>{item.admissionYear}</td>
                     <td>
                       <a
-                        className="btn btn-success"
+                        className="btn btn-success px-3"
                         onClick={() => {
                           loadEdit(item.id);
                         }}
@@ -65,7 +75,7 @@ const StudentList = () => {
                         Edit
                       </a>
                       <a
-                        className="btn btn-danger"
+                        className="btn btn-danger "
                         onClick={() => {
                           removeStudent(item.id);
                         }}
@@ -73,7 +83,7 @@ const StudentList = () => {
                         Remove
                       </a>
                       <a
-                        className="btn btn-primary"
+                        className="btn btn-primary "
                         onClick={() => {
                           loadDetail(item.id);
                         }}

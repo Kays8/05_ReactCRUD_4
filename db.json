@@ -1,17 +1,6 @@
 {
   "students": [
     {
-      "id": 1,
-      "name": "John Done",
-      "email": "john@gmail.com",
-      "phone": "0123456789",
-      "birthday": "1990-01-01",
-      "photo": "https://source.unsplash.com/random/200x200/?portraint",
-      "section": "65/45",
-      "major": "Software Engineering",
-      "admissionYear": "2022"
-    },
-    {
       "id": 2,
       "name": "Jane Smith",
       "email": "jane@gmail.com",
@@ -155,15 +144,15 @@
       "admissionYear": "2022"
     },
     {
-      "id": 15,
       "name": "Elijah Robinson",
       "email": "elijah@gmail.com",
       "phone": "0123456789",
       "birthday": "1994-10-09",
       "photo": "https://source.unsplash.com/random/200x200/?portrait",
       "section": "65/45",
-      "major": "Economics",
-      "admissionYear": "2022"
+      "major": "Software EIEI",
+      "admissionYear": "2022",
+      "id": 15
     },
     {
       "id": 16,
@@ -219,6 +208,17 @@
       "section": "65/45",
       "major": "Drama",
       "admissionYear": "2022"
+    },
+    {
+      "name": "qwrqwrqwrqr",
+      "email": "qweqweq",
+      "phone": "qweq",
+      "birthday": "2023-11-13",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "asfasf",
+      "major": "654654/654",
+      "admissionYear": "2000",
+      "id": 21
     }
   ]
 }
